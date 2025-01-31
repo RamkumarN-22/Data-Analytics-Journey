@@ -1,4 +1,4 @@
-SQL Assignments
+SQL Assignments:
 This folder contains SQL assignments covering different SQL concepts.
 
 SQL Assignment 1:
