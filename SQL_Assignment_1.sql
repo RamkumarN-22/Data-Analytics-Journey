@@ -2,8 +2,8 @@ CREATE DATABASE Assignments
 
 USE Assignments
 
----1. Create a customer table which comprises of these columns: ‘customer_id’,
---‘first_name’, ‘last_name’, ‘email’, ‘address’, ‘city’,’state’,’zip’
+---1. Create a customer table which comprises of these columns: â€˜customer_idâ€™,
+--â€˜first_nameâ€™, â€˜last_nameâ€™, â€˜emailâ€™, â€˜addressâ€™, â€˜cityâ€™,â€™stateâ€™,â€™zipâ€™
 create table customer (customer_id int, first_name varchar(20),last_name varchar(20),email varchar(20),
 address varchar(20),city varchar(20),state varchar(20),zip int)
 
@@ -16,15 +16,14 @@ values (2, 'Apurva','Wankade','apurva@yahoo.com','5th Cross','Pune','Mumbai',689
         (4,'Vishal','V','vishal@gmail.com','4th Cross','Chennai','TamilNadu',6958),
         (5,'Bob','Barly','bob@hotmail.com','3rd Street','Texas','CA',84985);
 
---3. Select only the ‘first_name’ and ‘last_name’ columns fromthe customer table?
+--3. Select only the â€˜first_nameâ€™ and â€˜last_nameâ€™ columns fromthe customer table?
 select first_name, last_name from customer
 
---4. Select those records where ‘first_name’ starts with “G” and city is ‘SanJose’
+--4. Select those records where â€˜first_nameâ€™ starts with â€œGâ€ and city is â€˜SanJoseâ€™
 select * from customer where first_name like 'G%'and city = 'san jose'
 
---5. Select those records where Email has only ‘gmail’
+--5. Select those records where Email has only â€˜gmailâ€™
 select * from customer where email like'%gmail.com'
 
---6. Select those records where the ‘last_name’ doesn't end with “A”.
+--6. Select those records where the â€˜last_nameâ€™ doesn't end with â€œAâ€.
 select * from customer where last_name not like'%A'
-
