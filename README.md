@@ -1,4 +1,5 @@
 Data-Analytics-Journey/
+
 ├── 📁 **Assignments**  
 │   ├── SQL_Assignment_1.sql  
 │   └── SQL_Assignment_2.sql  
