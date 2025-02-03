@@ -1,5 +1,5 @@
---1. Create an ‘Orders’ table which comprises of these columns: ‘order_id’,
---‘order_date’, ‘amount’, ‘customer_id’
+--1. Create an â€˜Ordersâ€™ table which comprises of these columns: â€˜order_idâ€™,
+--â€˜order_dateâ€™, â€˜amountâ€™, â€˜customer_idâ€™
 create table Orders (order_id int, order_date date, amount int, customer_id int)
 
 --2. Insert 5 new records.
@@ -11,21 +11,21 @@ values
 (401,'1/5/2019',3500,6),
 (501,'6/3/2021',300,7)
 
---3. Make an inner join on ‘Customer’ and ‘Orders’ tables on the ‘customer_id’ column.
+--3. Make an inner join on â€˜Customerâ€™ and â€˜Ordersâ€™ tables on the â€˜customer_idâ€™ column.
 select * from customer A inner join orders B 
 on A.customer_id=B.customer_id 
 
---4. Make left and right joins on ‘Customer’ and ‘Orders’ tables on the‘customer_id’ column.
+--4. Make left and right joins on â€˜Customerâ€™ and â€˜Ordersâ€™ tables on theâ€˜customer_idâ€™ column.
 select * from customer A left  outer join orders B
 on A.customer_id=B.customer_id   
 
 select * from customer A right outer join orders B
 on A.customer_id=B.customer_id 
 
---5. Make a full outer join on ‘Customer’ and ‘Orders’ table on the ‘customer_id’ column.
+--5. Make a full outer join on â€˜Customerâ€™ and â€˜Ordersâ€™ table on the â€˜customer_idâ€™ column.
 select * from customer A full outer join orders B
 on A.customer_id=B.customer_id
 
---6. Update the ‘Orders’ table and set the amount to be 100 where‘customer_id’ is 3.
+--6. Update the â€˜Ordersâ€™ table and set the amount to be 100 whereâ€˜customer_idâ€™ is 3.
 select * from orders
 update orders set amount=1000 where customer_id=3
