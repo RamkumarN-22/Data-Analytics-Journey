@@ -1,4 +1,4 @@
---1. Create a view named ‘customer_san_jose’ which comprises of only those customers who are from San Jose
+--1. Create a view named â€˜customer_san_joseâ€™ which comprises of only those customers who are from San Jose
 create view customer_san_jose as
 select * from Customer where city='san jose'
 
