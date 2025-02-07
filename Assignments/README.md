@@ -8,7 +8,7 @@ This folder contains my **SQL assignments** from **Intellipaat**, as part of my 
 
 | Assignment | Topic | Problem Statement | SQL Queries |
 |------------|-------------------------------|------------------|------------|
-| **Assignment 1** | Introduction to SQL | [View Problem](Assignments/Assignment_01/SQL_Assignment_01_Problem.pdf) | [View Solution](Assignments/Assignment_01/SQL_Assignment_01.sql) |
+| **Assignment 1** | Introduction to SQL | [View Problem](/Assignment_01/SQL_Assignment_01_Problem.pdf) | [View Solution](/Assignment_01/SQL_Assignment_01.sql) |
 | **Assignment 2** | Clauses and Wildcards | [View Problem](Assignments/Assignment_02/SQL_Assignment_02_Problem.pdf) | [View Solution](Assignments/Assignment_02/SQL_Assignment_02.sql) |
 | **Assignment 3** | Different Types of Joins | [View Problem](Assignments/Assignment_03/SQL_Assignment_03_Problem.pdf) | [View Solution](Assignments/Assignment_03/SQL_Assignment_03.sql) |
 | **Assignment 4** | Different Types of Functions | [View Problem](Assignments/Assignment_04/SQL_Assignment_04_Problem.pdf) | [View Solution](Assignments/Assignment_04/SQL_Assignment_04.sql) |
