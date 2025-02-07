@@ -1,9 +1,9 @@
---1. Arrange the ‘Orders’ dataset in decreasing order of amount
+--1. Arrange the â€˜Ordersâ€™ dataset in decreasing order of amount
 select * from orders order by amount desc
 
---2. Create a table with the name ‘Employee_details1’ consisting of these
---columns: ‘Emp_id’, ‘Emp_name’, ‘Emp_salary’. Create another tablewiththe name 
---‘Employee_details2’ consisting of the same columns asthefirst table. 
+--2. Create a table with the name â€˜Employee_details1â€™ consisting of these
+--columns: â€˜Emp_idâ€™, â€˜Emp_nameâ€™, â€˜Emp_salaryâ€™. Create another tablewiththe name 
+--â€˜Employee_details2â€™ consisting of the same columns asthefirst table. 
 create table Employee_details1 (Emp_id char(10),Emp_name varchar(50), Emp_salary numeric(10,2))
 select * from Employee_details1
 insert into Employee_details1 values (101,'ramkumar',3000), (102,'anu',56000),(103,'ravi',4737)
