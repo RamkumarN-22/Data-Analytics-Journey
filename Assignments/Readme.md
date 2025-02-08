@@ -43,7 +43,7 @@ Beyond assignments, I am also working on **real-world projects** to apply my SQL
 ## 📬 Let's Connect!  
 
 💼 **LinkedIn**: [Ramkumar N](https://www.linkedin.com/in/ramkumar-n-17aa12232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMBdyTamLTc2ApYmC6xQRzg%3D%3D)  
-📧 **Email**: [My Email-id](ram56star@gmail.com)  
+📧 **Email**: [ram56star@gmail.com]  
 
 🔹 If you have feedback or suggestions, feel free to **open an issue** or **connect with me**!  
 
