@@ -1,11 +1,10 @@
-# 📂 This SQL Repository  
+# 📂 This SQL Directory  
 
-Each section of this **SQL directory**! 🚀  
-contains **Assignments, Case studies, and Projects** that demonstrate my learnings in SQL skills in database management, querying, and data analysis.  
+🚀 Each section of this **sql directory**! contains **Assignments, Case studies, and Projects** that demonstrate my learnings in SQL skills in database management, querying, and data analysis.  
 
 📌 **All assignments, case studies, and projects in this repository were provided by Intellipaat as part of my Data Analytics training.**  
-
 ---
+
 📂 **1. Assignments**
 Assignments are categorized into:
 - **📌 Hands-on Assignments** → Practical SQL exercises  
@@ -25,8 +24,8 @@ Assignments are categorized into:
 | **Assign_05** | [SQL_Assignment_5.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_05/SQL_Assignment_5.sql) | [Assignment_5.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_05/SQL_Assignment_Prob_Stat_5.pdf) |
 | **Assign_06** | [SQL_Assignment_6.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_06/SQL_Assignment_6.sql) | [Assignment_6.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_06/SQL_Assignment_Prob_Stat_6.pdf) |
 | **Mandatory_Assign_01** | [SQL_Assignment_7.sql](#) | [Assignment_7.pdf](#) |
-| **Mandatory_Assign_02** | [SQL_Assignment_7.sql](#) | [Assignment_7.pdf](#) |
-| **Mandatory_Assign_03** | [SQL_Assignment_7.sql](#) | [Assignment_7.pdf](#) |
+| **Mandatory_Assign_02** | [SQL_Assignment_8.sql](#) | [Assignment_8.pdf](#) |
+| **Mandatory_Assign_03** | [SQL_Assignment_9.sql](#) | [Assignment_9.pdf](#) |
 ---
 
 ## 📂 **2. Case Studies**
