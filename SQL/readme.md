@@ -26,6 +26,10 @@ Assignments are categorized into:
 | **Mandatory_Assign_01** | [Mand_Assig_1.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Mandatory%20Assignments/Assign_01/SQL-Mandatory-Assignment-1.pdf) | [SQL_Mand_Assig_1.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Mandatory%20Assignments/Assign_01/SQL_Mand_Assig_01.sql) | [Analysis_report_1.md](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Mandatory%20Assignments/Assign_01/Analysis%20%26%20Insights%20Report.md) |  
 | **Mandatory_Assign_02** | [Mand_Assig_2.pdf](#) | [SQL_Mand_Assig_2.sql](#) | [Analysis_report_2.md](#) |  
 | **Mandatory_Assign_03** | [Mand_Assig_3.pdf](#) | [SQL_Mand_Assig_3.sql](#) | [Analysis_report_3.md](#) |  
+| **Test_yourself_Assign_01** | [Test_Assig_3.pdf](#) | [SQL_Test_Assig_1.sql](#) | [Analysis_report_1.md](#) |  
+| **Try_yourself_Assign_01** | [Try_Assig_3.pdf](#) | [SQL_Try_Assig_1.sql](#) | [Analysis_report_1.md](#) |  
+
+
 ---
 ## 📂 **2. Case Studies**
 Case studies focus on **real-world SQL applications** in data analytics.  
