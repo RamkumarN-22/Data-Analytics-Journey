@@ -15,7 +15,7 @@ Assignments are categorized into:
 - `.pdf` or `.md` files with problem statements, Analysis & insights report 
 
 📍 **Explore Assignments:**  
-| 🔢 Assignment | 📑 Problem Statement | 📄 SQL File | 📊 Analysis/Insights Report |  
+| 🔢 Assignment | 📑 Tasks/Problem Statement | 📄 Queries/Solutions | 📊 Analysis/Insights Report |  
 |--------------|----------------------|----------------------|---------------------------|  
 | **Assign_01** | [Assignment_1.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/SQL_Assignment_Prob_Stat_1.pdf) | [SQL_Assignment_1.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/SQL_Assignment_1.sql) | [Analysis_report_1.md](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/readme.md) |  
 | **Assign_02** | [Assignment_2.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_02/SQL_Assignment_Prob_Stat_2.pdf) | [SQL_Assignment_2.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_02/SQL_Assignment_2.sql) | [Analysis_report_2.md](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_02/readme.md) |  
@@ -32,7 +32,7 @@ Case studies focus on **real-world SQL applications** in data analytics.
 Each folder includes **problem statements, dataset descriptions, and solutions.**  
 
 📍 **Explore Case Studies:**  
-| 📊 Case Study | 📑 Problem Statement | 📄 SQL File | 📊 Analysis/Insights Report |  
+| 📊 Case Study | 📑 Tasks/Problem Statement | 📄 Queries/Solutions | 📊 Analysis/Insights Report |  
 |-------------|----------------------|------------|---------------------------|  
 | **Case_Study_01** | [Case_Study_01.pdf](#) | [SQL_Case_01.sql](#) | [Analysis_Report_01.md](#) |  
 | **Case_Study_02** | [Case_Study_02.pdf](#) | [SQL_Case_02.sql](#) | [Analysis_Report_02.md](#) |  
@@ -44,7 +44,7 @@ Each folder includes **problem statements, dataset descriptions, and solutions.*
 SQL projects demonstrate **data analysis, query optimization, and database design**.  
 
 📍 **Explore Projects:**  
-| 🚀 Project | 📑 Problem Statement | 📄 SQL File | 📊 Analysis/Insights Report |  
+| 🚀 Project | 📑 Tasks/Problem Statement | 📄 Queries/Solutions | 📊 Analysis/Insights Report |  
 |-----------|----------------------|------------|---------------------------|  
 | **Project_01** | [Project_01.pdf](#) | [SQL_Project_01.sql](#) | [Analysis_Report_01.md](#) |  
 | **Project_02** | [Project_02.pdf](#) | [SQL_Project_02.sql](#) | [Analysis_Report_02.md](#) |  
