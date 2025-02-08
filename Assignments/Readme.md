@@ -27,7 +27,7 @@ Data-Analytics-Journey/ │── Assignments/ │ ├── Assignment_01/ │ 
 
 ## 📌 How to Access PDF Files
 1. Navigate to the assignment folder in the repository.
-2. Click on the PDF file, such as [`SQL_Assignment_Prob_Stat_1.pdf`](#) (replace `#` with actual URL).
+2. Click on the PDF file, such as [`SQL_Assignment_Prob_Stat_1.pdf`](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/Assignments/Assignment_01/SQL_Assignment_Prob_Stat_1.pdf) (replace `#` with actual URL).
 3. Click **Download** to save and open it.
 
 ---
