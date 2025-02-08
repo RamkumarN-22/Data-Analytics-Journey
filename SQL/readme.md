@@ -27,28 +27,30 @@ Assignments are categorized into:
 | **Mandatory_Assign_02** | [Mand_Assig_2.pdf](#) | [SQL_Mand_Assig_2.sql](#) | [Analysis_report_2.md](#) |  
 | **Mandatory_Assign_03** | [Mand_Assig_3.pdf](#) | [SQL_Mand_Assig_3.sql](#) | [Analysis_report_3.md](#) |  
 ---
-
 ## 📂 **2. Case Studies**
 Case studies focus on **real-world SQL applications** in data analytics.  
 Each folder includes **problem statements, dataset descriptions, and solutions.**  
 
 📍 **Explore Case Studies:**  
-| 📊 Case Study | 📄 SQL File | 📑 Problem Statement |  
-|-------------|------------|----------------------|  
-| **Case_Study_01** | [SQL_Case_01.sql](#) | [Case_Study_01.pdf](#) |  
-| **Case_Study_02** | [SQL_Case_02.sql](#) | [Case_Study_02.pdf](#) |  
-
+| 📊 Case Study | 📑 Problem Statement | 📄 SQL File | 📊 Analysis/Insights Report |  
+|-------------|----------------------|------------|---------------------------|  
+| **Case_Study_01** | [Case_Study_01.pdf](#) | [SQL_Case_01.sql](#) | [Analysis_Report_01.md](#) |  
+| **Case_Study_02** | [Case_Study_02.pdf](#) | [SQL_Case_02.sql](#) | [Analysis_Report_02.md](#) |  
+| **Case_Study_03** | [Case_Study_03.pdf](#) | [SQL_Case_03.sql](#) | [Analysis_Report_03.md](#) |  
+| **Case_Study_04** | [Case_Study_04.pdf](#) | [SQL_Case_04.sql](#) | [Analysis_Report_04.md](#) |  
+| **Case_Study_05** | [Case_Study_05.pdf](#) | [SQL_Case_05.sql](#) | [Analysis_Report_05.md](#) |  
 ---
-
 ## 📂 **3. Projects**
 SQL projects demonstrate **data analysis, query optimization, and database design**.  
 
 📍 **Explore Projects:**  
-| 🚀 Project | 📄 SQL File | 📑 Documentation |  
-|------------|------------|------------------|  
-| **Project_01** | [SQL_Project_01.sql](#) | [Project_01_Report.pdf](#) |  
-| **Project_02** | [SQL_Project_02.sql](#) | [Project_02_Report.pdf](#) |  
-
+| 🚀 Project | 📑 Problem Statement | 📄 SQL File | 📊 Analysis/Insights Report |  
+|-----------|----------------------|------------|---------------------------|  
+| **Project_01** | [Project_01.pdf](#) | [SQL_Project_01.sql](#) | [Analysis_Report_01.md](#) |  
+| **Project_02** | [Project_02.pdf](#) | [SQL_Project_02.sql](#) | [Analysis_Report_02.md](#) |  
+| **Project_03** | [Project_03.pdf](#) | [SQL_Project_03.sql](#) | [Analysis_Report_03.md](#) |  
+| **Project_04** | [Project_04.pdf](#) | [SQL_Project_04.sql](#) | [Analysis_Report_04.md](#) |  
+| **Project_05** | [Project_05.pdf](#) | [SQL_Project_05.sql](#) | [Analysis_Report_05.md](#) |  
 ---
 
 ## 📖 **How to Use These Files?**
