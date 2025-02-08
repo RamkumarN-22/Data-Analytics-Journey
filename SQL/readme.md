@@ -15,9 +15,9 @@ Assignments are categorized into:
 - `.pdf` or `.md` files with problem statements, Analysis & insights report 
 
 📍 **Explore Assignments:**  
-| 🔢 Assignment | 📄 SQL File | 📑 Problem Statement |  
+| 🔢 Assignment | 📑 Problem Statement | 📄 SQL File | 📊 Analysis/Insights Report |  
 |--------------|------------|----------------------|  
-| **Assign_01** | [SQL_Assignment_1.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/SQL_Assignment_1.sql) | [Assignment_1.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/SQL_Assignment_Prob_Stat_1.pdf) |  
+| **Assign_01** |[Assignment_1.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/SQL_Assignment_Prob_Stat_1.pdf) |[SQL_Assignment_1.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/SQL_Assignment_1.sql) |[Analysis_report_1.md] (https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_01/readme.md).|
 | **Assign_02** | [SQL_Assignment_2.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_02/SQL_Assignment_2.sql) | [Assignment_2.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_02/SQL_Assignment_Prob_Stat_2.pdf) |  
 | **Assign_03** | [SQL_Assignment_3.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_03/SQl_Assignment_3.sql) | [Assignment_3.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_03/SQL_Assignment_Prob_Stat_3.pdf) |  
 | **Assign_04** | [SQL_Assignment_4.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_04/SQL_Assignment_4.sql) | [Assignment_4.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_04/SQL_Assignment_Prob_Stat_4.pdf) |
