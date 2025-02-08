@@ -23,7 +23,7 @@ Assignments are categorized into:
 | **Assign_03** | [SQL_Assignment_3.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_03/SQl_Assignment_3.sql) | [Assignment_3.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_03/SQL_Assignment_Prob_Stat_3.pdf) |  
 | **Assign_04** | [SQL_Assignment_4.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_04/SQL_Assignment_4.sql) | [Assignment_4.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_04/SQL_Assignment_Prob_Stat_4.pdf) |
 | **Assign_05** | [SQL_Assignment_5.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_05/SQL_Assignment_5.sql) | [Assignment_5.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_05/SQL_Assignment_Prob_Stat_5.pdf) |
-| **Assign_06** | [SQL_Assignment_6.sql](#) | [Assignment_6.pdf](#) |
+| **Assign_06** | [SQL_Assignment_6.sql](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_06/SQL_Assignment_6.sql) | [Assignment_6.pdf](https://github.com/RamkumarN-22/Data-Analytics-Journey/blob/main/SQL/Assignments/Hand-on-Assignments/Assign_06/SQL_Assignment_Prob_Stat_6.pdf) |
 | **Mandatory_Assign_01** | [SQL_Assignment_7.sql](#) | [Assignment_7.pdf](#) |
 | **Mandatory_Assign_02** | [SQL_Assignment_7.sql](#) | [Assignment_7.pdf](#) |
 | **Mandatory_Assign_03** | [SQL_Assignment_7.sql](#) | [Assignment_7.pdf](#) |
