@@ -7,10 +7,9 @@ The dataset consists of **7,104** restaurant records with details such as restau
 
 ## 🔍 **Key Insights & Findings**
 
-### **1️⃣ Restaurant Type & Cost Analysis**
-- The most common restaurant types are **Quick Bites, Casual Dining, and Cafes**.
-- Using `ROLLUP`, the total average cost across all restaurant types was calculated.
-- **Fine Dining** restaurants have the highest average cost, whereas **Street Food** has the lowest.
+### **1️⃣ Quick Chicken Bites Transformation**
+- A function was created to insert 'Chicken' into 'Quick Bites' dynamically, e.g., `Quick Chicken Bites`.
+- This can be extended for branding or food categorization.
 
 ### **2️⃣ Rating Distribution & Classification**
 - The dataset contains restaurants with ratings ranging from **1.0 to 5.0**.
@@ -30,10 +29,10 @@ The dataset consists of **7,104** restaurant records with details such as restau
 - **Absolute values** of ratings were obtained.
 - Extracted **current date, year, month name, and day** from the system for time-based analysis.
 
-### **5️⃣ Quick Chicken Bites Transformation**
-- A function was created to insert 'Chicken' into 'Quick Bites' dynamically, e.g., `Quick Chicken Bites`.
-- This can be extended for branding or food categorization.
-
+### **5️⃣ Restaurant Type & Cost Analysis**
+- The most common restaurant types are **Quick Bites, Casual Dining, and Cafes**.
+- Using `ROLLUP`, the total average cost across all restaurant types was calculated.
+- **Fine Dining** restaurants have the highest average cost, whereas **Street Food** has the lowest.
 ---
 
 ## 📌 **SQL Queries Used**
