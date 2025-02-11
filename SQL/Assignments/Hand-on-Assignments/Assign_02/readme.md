@@ -26,8 +26,6 @@ This assignment is part of the **Intellipaat SQL training program** and focuses 
 | 5  | Retrieve records where the email contains only 'gmail'. | `WHERE`, `LIKE` |
 | 6  | Retrieve records where `last_name` doesn't end with "A". | `WHERE`, `NOT LIKE` |
 
-*(Update the table as needed!)*  
-
 ## 🚀 **Execution Instructions**  
 1. **Create** the `customer` table using the provided SQL script.  
 2. **Insert** the sample records.  
