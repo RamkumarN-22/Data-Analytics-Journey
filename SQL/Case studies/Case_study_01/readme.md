@@ -47,17 +47,7 @@ The dataset consists of **three tables**:
 🔹 Delete **regular-type products** from `ProductTable`.  
 🔹 Display the **ASCII value of the 5th character from the product name**.  
 
-## 🔍 Key Insights
 
-- **There are X unique states** in the dataset.
-- **Y products** are classified as "Regular Type."
-- **Total marketing spend** for Product ID 1: `$Z`
-- **Minimum sales recorded:** `$A` | **Max COGS:** `$B`
-- **Top-selling product:** `XYZ` | **Least-selling product:** `ABC`
-- **Colorado's total profit:** `$C`
-- **Area Code 719 - Avg. Sales:** `$D`
-- **Projected 5% Sales Increase:** `$E`
----
 🔗 **Author:** *Ramkumar N*  
 📅 **Date:** *22/01/2025*  
 💡 **Source:** Intellipaat SQL Case Study
