@@ -49,9 +49,9 @@ Currently pursuing **Executive PG Certification in Data Analytics** from **IIT R
 ---
 
 ## 📫 Connect with Me
+- LinkedIn: [Ramkumar N](https://linkedin.com/in/ramkumar-n-17aa12232)
+- Email: ram56star@gmail.com
 
-- [LinkedIn](linkedin.com/in/ramkumar-n-17aa12232)  
-- [Email](mailto:ram56star@gmail.com)
 
 ---
 
